@@ -1,6 +1,6 @@
 #!/usr/bin/env python
-# Name:
-# Student number:
+# Name: Lisette van Nieuwkerk
+# Student number: 10590919
 """
 This script visualizes data obtained from a .csv file
 """
@@ -38,5 +38,5 @@ plt.xlabel('Year')
 plt.ylabel('Rating')
 plt.title('Rating top 50 movies')
 plt.bar(data_dict.keys(), data_dict.values(), align='center', alpha=1)
-plt.yticks(np.arange(min(data_dict.values()), max(data_dict.values()), 0.2))
+plt.ylim(8.0, 9.0)
 plt.show()

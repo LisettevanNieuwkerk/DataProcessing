@@ -33,36 +33,32 @@ def extract_movies(dom):
     # UNICODE CHARACTERS AND SIMPLY LEAVE THEM OUT OF THE OUTPUT.
     # Get list of movies
     movies = []
-    for link in dom.find_all('div', 'lister-item-content'):
+    for movie in dom.find_all(class_='lister-item-content'):
         # Get title
-        header = link.find('h3')
-        title = header.find('a').get_text()
+        title = movie.find(href=re.compile("title")).get_text()
         movies.append(title)
+
         # Rating
-        ratings = link.find("div", "inline-block ratings-imdb-rating")
-        rating = ratings.strong.get_text()
+        rating = movie.find(class_="inline-block ratings-imdb-rating")
+        rating = rating.strong.get_text()
         movies.append(rating)
+
         # Get year
-        year = header.find('span', 'lister-item-year text-muted unbold').get_text()
+        year = movie.find(class_='lister-item-year text-muted unbold').get_text()
         year = re.sub('\D', '', year)
         movies.append(year)
-        print(year)
 
-        listed = []
-        runtime = None
-
-        for text in link.find_all('p'):
-            # Get actors
-            actors = text.select('a[href*="adv_li_st"]')
-            for actor in actors:
-                listed.append(actor.get_text())
-            list_actors = ",".join([str(x) for x in listed])
-            # Get runtime
-            get_runtime = text.find('span', 'runtime')
-            if get_runtime is not None:
-                runtime = get_runtime.get_text()
-
+        # Get actors
+        actors = movie.find_all(href=re.compile("adv_li_st"))
+        list_actors = []
+        for actor in actors:
+            list_actors.append(actor.get_text())
+        list_actors = ", ".join([str(x) for x in list_actors])
         movies.append(list_actors)
+
+        # Get runtime
+        runtime = movie.find(class_='runtime').get_text()
+        runtime = re.sub('\D', '', runtime)
         movies.append(runtime)
 
     print(movies)
