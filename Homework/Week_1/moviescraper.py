@@ -27,60 +27,57 @@ def extract_movies(dom):
     - Actors/actresses (comma separated if more than one)
     - Runtime (only a number!)
     """
-    # ADD YOUR CODE HERE TO EXTRACT THE ABOVE INFORMATION ABOUT THE
-    # HIGHEST RATED MOVIES
-    # NOTE: FOR THIS EXERCISE YOU ARE ALLOWED (BUT NOT REQUIRED) TO IGNORE
-    # UNICODE CHARACTERS AND SIMPLY LEAVE THEM OUT OF THE OUTPUT.
-    # Get list of movies
+
+    # Set list of movies
     movies = []
-    for movie in dom.find_all(class_='lister-item-content'):
-        # Get title
-        title = movie.find(href=re.compile("title")).get_text()
-        movies.append(title)
 
-        # Rating
-        rating = movie.find(class_="inline-block ratings-imdb-rating")
+    # For every movie in the IMBD list
+    for film in dom.find_all(class_='lister-item-content'):
+        # Set list for movie
+        movie = []
+
+        # Find title
+        title = film.find(href=re.compile("title")).get_text()
+
+        # Find rating
+        rating = film.find(class_="inline-block ratings-imdb-rating")
         rating = rating.strong.get_text()
-        movies.append(rating)
 
-        # Get year
-        year = movie.find(class_='lister-item-year text-muted unbold').get_text()
+        # Find year and remove characters other than number
+        year = film.find(class_='lister-item-year text-muted unbold').get_text()
         year = re.sub('\D', '', year)
-        movies.append(year)
 
-        # Get actors
-        actors = movie.find_all(href=re.compile("adv_li_st"))
-        list_actors = []
-        for actor in actors:
-            list_actors.append(actor.get_text())
-        list_actors = ", ".join([str(x) for x in list_actors])
-        movies.append(list_actors)
+        # Find all actors and seperate by comma's
+        actors = film.find_all(href=re.compile("adv_li_st"))
+        list_actors = ", ".join([(actor.get_text()) for actor in actors])
 
-        # Get runtime
-        runtime = movie.find(class_='runtime').get_text()
+        # Find runtime and remove characters other than number
+        runtime = film.find(class_='runtime').get_text()
         runtime = re.sub('\D', '', runtime)
-        movies.append(runtime)
 
-    print(movies)
-    return movies   # REPLACE THIS LINE AS WELL IF APPROPRIAT
+        # Add fields to movie
+        movie.append(title)
+        movie.append(rating)
+        movie.append(year)
+        movie.append(list_actors)
+        movie.append(runtime)
+        # Add movie to movies
+        movies.append(movie)
+
+    return movies
 
 
 def save_csv(outfile, movies):
     """
     Output a CSV file containing highest rated movies.
     """
-    t = 0
-    r = 5
-    categories = 5
-    amount = int(len(movies)/categories)
+
     writer = csv.writer(outfile)
-
     writer.writerow(['Title', 'Rating', 'Year', 'Actors', 'Runtime'])
-    for movie in range(amount):
-        writer.writerow(movies[t:r])
-        t += 5
-        r += 5
 
+    # Write every movie in one line of csv file
+    writer.writerows(movies)
+    
 
 def simple_get(url):
     """
