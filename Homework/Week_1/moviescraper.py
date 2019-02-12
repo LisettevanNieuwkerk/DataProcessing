@@ -32,37 +32,28 @@ def extract_movies(dom):
     movies = []
 
     # For every movie in the IMBD list
-    for film in dom.find_all(class_='lister-item-content'):
-        # Set list for movie
-        movie = []
-
+    for movie in dom.find_all(class_='lister-item-content'):
         # Find title
-        title = film.find(href=re.compile("title")).get_text()
+        title = movie.find(href=re.compile("title")).get_text()
 
         # Find rating
-        rating = film.find(class_="inline-block ratings-imdb-rating")
+        rating = movie.find(class_="inline-block ratings-imdb-rating")
         rating = rating.strong.get_text()
 
         # Find year and remove characters other than number
-        year = film.find(class_='lister-item-year text-muted unbold').get_text()
+        year = movie.find(class_='lister-item-year text-muted unbold').get_text()
         year = re.sub('\D', '', year)
 
         # Find all actors and seperate by comma's
-        actors = film.find_all(href=re.compile("adv_li_st"))
+        actors = movie.find_all(href=re.compile("adv_li_st"))
         list_actors = ", ".join([(actor.get_text()) for actor in actors])
 
         # Find runtime and remove characters other than number
-        runtime = film.find(class_='runtime').get_text()
+        runtime = movie.find(class_='runtime').get_text()
         runtime = re.sub('\D', '', runtime)
 
-        # Add fields to movie
-        movie.append(title)
-        movie.append(rating)
-        movie.append(year)
-        movie.append(list_actors)
-        movie.append(runtime)
-        # Add movie to movies
-        movies.append(movie)
+        # Add movie to list
+        movies.append([title, rating, year, list_actors, runtime])
 
     return movies
 
@@ -77,7 +68,7 @@ def save_csv(outfile, movies):
 
     # Write every movie in one line of csv file
     writer.writerows(movies)
-    
+
 
 def simple_get(url):
     """
@@ -121,6 +112,7 @@ if __name__ == "__main__":
 
     # extract the movies (using the function you implemented)
     movies = extract_movies(dom)
+    
     # write the CSV file to disk (including a header)
     with open(OUTPUT_CSV, 'w', newline='') as output_file:
         save_csv(output_file, movies)
