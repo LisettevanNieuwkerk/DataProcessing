@@ -20,14 +20,15 @@ if __name__ == "__main__":
     with open(INPUT_FILE, 'r', newline='') as input:
         with open(OUTPUT_CSV, 'w', newline='') as outfile:
             for line in input:
-                if line.strip():
+                if line != '\r\n':
                     writer = csv.writer(outfile)
                     writer.writerow([line])
+                    print([line])
 
 
 
-    reader = pd.read_csv(INPUT_FILE)
-    print(reader)
+    #reader = pd.read_csv(INPUT_FILE)
+    #print(reader)
 
 
 
