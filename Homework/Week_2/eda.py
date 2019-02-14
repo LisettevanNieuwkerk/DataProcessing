@@ -18,9 +18,10 @@ OUTPUT_CSV = 'output.csv'
 
 if __name__ == "__main__":
     with open(INPUT_FILE, 'r', newline='') as input:
-        with open(OUTPUT_CSV, 'w', newline='') as outfile:
-            writer = csv.writer(outfile)
-            writer.writerows([input])
+        for line in input:
+            with open(OUTPUT_CSV, 'w', newline='') as outfile:
+                writer = csv.writer(outfile)
+                writer.writerow([line])
 
 
 
