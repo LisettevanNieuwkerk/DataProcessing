@@ -18,15 +18,22 @@ OUTPUT_CSV = 'output.csv'
 
 
 if __name__ == "__main__":
+    # Write csv correct
+    file = []
+    with open(INPUT_FILE, 'r', newline='') as input:
+        for line in input:
+            fields = line.replace('"', '')
+            fields = fields.replace('  ', '')
+            field = fields.split(',')
+            if field[0] != '\r\n':
+                file.append(field)
+
     with open(OUTPUT_CSV, 'w', newline='') as outfile:
-        with open(INPUT_FILE, 'r', newline='') as input:
-            for line in input:
-                fields = line.replace('"', '')
-                fields = fields.replace('  ', '')
-                field = fields.split(',')
-                if field[0] != '\r\n':
-                    writer = csv.writer(outfile)
-                    writer.writerow(field)
+        writer = csv.writer(outfile, delimiter =",")
+        writer.writerows(file)
+
+    print(file)
+
 
 
 
