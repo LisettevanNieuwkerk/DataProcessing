@@ -18,8 +18,8 @@ OUTPUT_CSV = 'output.csv'
 
 if __name__ == "__main__":
     with open(INPUT_FILE, 'r', newline='') as input:
-        for line in input:
-            with open(OUTPUT_CSV, 'w', newline='') as outfile:
+        with open(OUTPUT_CSV, 'w', newline='') as outfile:
+            for line in input:
                 writer = csv.writer(outfile)
                 writer.writerow([line])
 
