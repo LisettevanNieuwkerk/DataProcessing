@@ -36,12 +36,11 @@ if __name__ == "__main__":
     #    writer.writerows(file[1:])
 
     df = pd.read_csv(INPUT_FILE)
-    print(df)
 
     with open(OUTPUT_CSV, 'w', newline='') as outfile:
-        writer = csv.writer(outfile)
-        writer.writerows(df)
-    print(OUTPUT_CSV)
+        df.to_csv(OUTPUT_CSV, index=False)
+
+
     #    writer.writerows(file[1:])
 
 
