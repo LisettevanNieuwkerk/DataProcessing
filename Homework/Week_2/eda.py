@@ -24,8 +24,9 @@ if __name__ == "__main__":
         for line in input:
             fields = line.replace('"', '')
             fields = fields.replace('  ', '')
+            fields = fields.replace('\r\n', '')
             field = fields.split(',')
-            if field[0] != '\r\n':
+            if field != ['']:
                 file.append(field)
 
     with open(OUTPUT_CSV, 'w', newline='') as outfile:
@@ -33,14 +34,13 @@ if __name__ == "__main__":
         writer.writerow(file[0])
         writer.writerows(file[1:])
 
-    print(file)
+    #reader = pd.read_csv(OUTPUT_CSV)
+    #print(reader)
 
 
 
 
 
-#reader = pd.read_csv(INPUT_FILE)
-#print(reader)
 
             #['Country', 'Region', 'Population', 'Area (sq. mi.)', 'Pop. Density (per sq. mi.)',
             #'Coastline (coast/area ratio)', 'Net migration', 'Infant mortality (per 1000 births)',
