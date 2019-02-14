@@ -22,8 +22,10 @@ if __name__ == "__main__":
     items = ['Country', 'Region', 'Pop. Density (per sq. mi.)',
     'Infant mortality (per 1000 births)', 'GDP ($ per capita) dollars']
     df = df.filter(items=items)
+    value = (df.iat[10,2])
+    df = df.mask(df == value)
     df = df.dropna()
     print(df)
 
-    with open(OUTPUT_CSV, 'w', newline='') as outfile:
+    with open(OUTPUT_CSV, newline='') as outfile:
         df.to_csv(OUTPUT_CSV, index=False)
