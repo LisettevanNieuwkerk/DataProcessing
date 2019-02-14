@@ -10,6 +10,7 @@ from requests import get
 from requests.exceptions import RequestException
 from contextlib import closing
 from bs4 import BeautifulSoup
+import re
 
 INPUT_FILE = 'input.csv'
 OUTPUT_CSV = 'output.csv'
@@ -17,23 +18,21 @@ OUTPUT_CSV = 'output.csv'
 
 
 if __name__ == "__main__":
-    with open(INPUT_FILE, 'r', newline='') as input:
-        with open(OUTPUT_CSV, 'w', newline='') as outfile:
+    with open(OUTPUT_CSV, 'w', newline='') as outfile:
+        with open(INPUT_FILE, 'r', newline='') as input:
             for line in input:
-                if line != '\r\n':
+                fields = line.replace('"', '')
+                fields = fields.replace('  ', '')
+                field = fields.split(',')
+                if field[0] != '\r\n':
                     writer = csv.writer(outfile)
-                    writer.writerow([line])
-                    print([line])
+                    writer.writerow(field)
 
 
 
-    #reader = pd.read_csv(INPUT_FILE)
-    #print(reader)
 
-
-
-        #data_dict = {str(key): [] for key in range(START_YEAR, END_YEAR)}
-
+#reader = pd.read_csv(INPUT_FILE)
+#print(reader)
 
             #['Country', 'Region', 'Population', 'Area (sq. mi.)', 'Pop. Density (per sq. mi.)',
             #'Coastline (coast/area ratio)', 'Net migration', 'Infant mortality (per 1000 births)',
