@@ -29,8 +29,9 @@ if __name__ == "__main__":
                 file.append(field)
 
     with open(OUTPUT_CSV, 'w', newline='') as outfile:
-        writer = csv.writer(outfile, delimiter =",")
-        writer.writerows(file)
+        writer = csv.writer(outfile)
+        writer.writerow(file[0])
+        writer.writerows(file[1:])
 
     print(file)
 
