@@ -20,8 +20,9 @@ if __name__ == "__main__":
     with open(INPUT_FILE, 'r', newline='') as input:
         with open(OUTPUT_CSV, 'w', newline='') as outfile:
             for line in input:
-                writer = csv.writer(outfile)
-                writer.writerow([line])
+                if line.strip():
+                    writer = csv.writer(outfile)
+                    writer.writerow([line])
 
 
 
