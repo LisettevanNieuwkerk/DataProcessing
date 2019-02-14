@@ -40,8 +40,8 @@ if __name__ == "__main__":
 
     with open(OUTPUT_CSV, 'w', newline='') as outfile:
         writer = csv.writer(outfile)
-        writer.writerow(df)
-    print(OUTPUT_CSV)    
+        writer.writerows(df)
+    print(OUTPUT_CSV)
     #    writer.writerows(file[1:])
 
 

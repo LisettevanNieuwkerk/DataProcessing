@@ -1,1 +1,20 @@
-Country,Region,Population,Area (sq. mi.),Pop. Density (per sq. mi.),Coastline (coast/area ratio),Net migration,Infant mortality (per 1000 births),GDP ($ per capita) dollars,Literacy (%),Phones (per 1000),Arable (%),Crops (%),Other (%),Climate,Birthrate,Deathrate,Agriculture,Industry,Service
+C,o,u,n,t,r,y
+R,e,g,i,o,n
+P,o,p,u,l,a,t,i,o,n
+A,r,e,a, ,(,s,q,., ,m,i,.,)
+P,o,p,., ,D,e,n,s,i,t,y, ,(,p,e,r, ,s,q,., ,m,i,.,)
+C,o,a,s,t,l,i,n,e, ,(,c,o,a,s,t,/,a,r,e,a, ,r,a,t,i,o,)
+N,e,t, ,m,i,g,r,a,t,i,o,n
+I,n,f,a,n,t, ,m,o,r,t,a,l,i,t,y, ,(,p,e,r, ,1,0,0,0, ,b,i,r,t,h,s,)
+G,D,P, ,(,$, ,p,e,r, ,c,a,p,i,t,a,), ,d,o,l,l,a,r,s
+L,i,t,e,r,a,c,y, ,(,%,)
+P,h,o,n,e,s, ,(,p,e,r, ,1,0,0,0,)
+A,r,a,b,l,e, ,(,%,)
+C,r,o,p,s, ,(,%,)
+O,t,h,e,r, ,(,%,)
+C,l,i,m,a,t,e
+B,i,r,t,h,r,a,t,e
+D,e,a,t,h,r,a,t,e
+A,g,r,i,c,u,l,t,u,r,e
+I,n,d,u,s,t,r,y
+S,e,r,v,i,c,e
