@@ -18,11 +18,9 @@ OUTPUT_CSV = 'output.csv'
 
 if __name__ == "__main__":
     with open(INPUT_FILE, 'r', newline='') as input:
-        for lines in input:
-            if lines != '\r\n':
-                with open(OUTPUT_CSV, 'w', newline='') as outfile:
-                    writer = csv.writer(outfile)
-                    writer.writerows([lines])
+        with open(OUTPUT_CSV, 'w', newline='') as outfile:
+            writer = csv.writer(outfile)
+            writer.writerows([input])
 
 
 
