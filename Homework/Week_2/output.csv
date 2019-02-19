@@ -9,6 +9,7 @@ Anguilla ,LATIN AMER. & CARIB    ,"132,1","21,03",8600 dollars
 Antigua & Barbuda ,LATIN AMER. & CARIB    ,"156,0","19,46",11000 dollars
 Argentina ,LATIN AMER. & CARIB    ,"14,4","15,18",11200 dollars
 Armenia ,C.W. OF IND. STATES ,"99,9","23,28",3500 dollars
+Aruba ,LATIN AMER. & CARIB    ,unknown,"5,89",28000 dollars
 Australia ,OCEANIA                            ,"2,6","4,69",29000 dollars
 Austria ,WESTERN EUROPE                     ,"97,7","4,66",30000 dollars
 Azerbaijan ,C.W. OF IND. STATES ,"91,9","81,74",3400 dollars
@@ -45,10 +46,13 @@ Colombia ,LATIN AMER. & CARIB    ,"38,3","20,97",6300 dollars
 Comoros ,SUB-SAHARAN AFRICA                 ,"318,4","74,93",700 dollars
 "Congo, Dem. Rep. ",SUB-SAHARAN AFRICA                 ,"26,7","94,69",700 dollars
 "Congo, Repub. of the ",SUB-SAHARAN AFRICA                 ,"10,8","93,86",700 dollars
+Cook Islands ,OCEANIA                            ,"89,1",,5000 dollars
 Costa Rica ,LATIN AMER. & CARIB    ,"79,8","9,95",9100 dollars
 Cote d'Ivoire ,SUB-SAHARAN AFRICA                 ,"54,8","90,83",1400 dollars
 Croatia ,EASTERN EUROPE                     ,"79,5","6,84",10600 dollars
 Cuba ,LATIN AMER. & CARIB    ,"102,7","6,33",2900 dollars
+Cyprus ,NEAR EAST                          ,unknown,"7,18",19200 dollars
+Czech Republic ,EASTERN EUROPE                     ,"129,8","3,93",unknown
 Denmark ,WESTERN EUROPE                     ,"126,5","4,56",31100 dollars
 Djibouti ,SUB-SAHARAN AFRICA                 ,"21,2","104,13",1300 dollars
 Dominica ,LATIN AMER. & CARIB    ,"91,4","14,15",5400 dollars
@@ -88,6 +92,7 @@ Haiti ,LATIN AMER. & CARIB    ,"299,4","73,45",1600 dollars
 Honduras ,LATIN AMER. & CARIB    ,"65,4","29,32",2600 dollars
 Hong Kong ,ASIA (EX. NEAR EAST)         ,"6355,7","2,97",28800 dollars
 Hungary ,EASTERN EUROPE                     ,"107,3","8,57",13900 dollars
+Iceland ,WESTERN EUROPE                     ,unknown,"3,31",30900 dollars
 India ,ASIA (EX. NEAR EAST)         ,"333,2","56,29",2900 dollars
 Indonesia ,ASIA (EX. NEAR EAST)         ,"127,9","35,6",3200 dollars
 Iran ,ASIA (EX. NEAR EAST)         ,"41,7","41,58",7000 dollars
@@ -96,6 +101,7 @@ Ireland ,WESTERN EUROPE                     ,"57,8","5,39",29600 dollars
 Isle of Man ,WESTERN EUROPE                     ,"131,9","5,93",21000 dollars
 Israel ,NEAR EAST                          ,"305,8","7,03",19800 dollars
 Italy ,WESTERN EUROPE                     ,"193,0","5,94",26700 dollars
+Jamaica ,LATIN AMER. & CARIB    ,"250,9","12,36",unknown
 Japan ,ASIA (EX. NEAR EAST)         ,"337,4","3,26",28200 dollars
 Jersey ,WESTERN EUROPE                     ,"785,2","5,24",24800 dollars
 Jordan ,NEAR EAST                          ,"64,0","17,35",4300 dollars
@@ -106,6 +112,7 @@ Kiribati ,OCEANIA                            ,"130,0","48,52",800 dollars
 "Korea, South ",ASIA (EX. NEAR EAST)         ,"496,0","7,05",17800 dollars
 Kuwait ,NEAR EAST                          ,"135,7","9,95",19000 dollars
 Kyrgyzstan ,C.W. OF IND. STATES ,"26,3","35,64",1600 dollars
+Laos ,ASIA (EX. NEAR EAST)         ,"26,9","85,22",unknown
 Latvia ,BALTICS                            ,"35,2","9,55",10200 dollars
 Lebanon ,NEAR EAST                          ,"372,5","24,52",4800 dollars
 Lesotho ,SUB-SAHARAN AFRICA                 ,"66,6","84,23",3000 dollars
@@ -118,6 +125,7 @@ Macau ,ASIA (EX. NEAR EAST)         ,"16183,0","4,39",19400 dollars
 Macedonia ,EASTERN EUROPE                     ,"80,9","10,09",6700 dollars
 Madagascar ,SUB-SAHARAN AFRICA                 ,"31,7","76,83",800 dollars
 Malawi ,SUB-SAHARAN AFRICA                 ,"109,8","103,32",600 dollars
+Malaysia ,ASIA (EX. NEAR EAST)         ,unknown,"17,7",9000 dollars
 Maldives ,ASIA (EX. NEAR EAST)         ,"1196,7","56,52",3900 dollars
 Mali ,SUB-SAHARAN AFRICA                 ,"9,5","116,79",900 dollars
 Malta ,WESTERN EUROPE                     ,"1266,5","3,89",17700 dollars
@@ -170,8 +178,10 @@ Saint Vincent and the Grenadines ,LATIN AMER. & CARIB    ,"303,0","14,78",2900 d
 Samoa ,OCEANIA                            ,"60,1","27,71",5600 dollars
 San Marino ,WESTERN EUROPE                     ,"479,5","5,73",34600 dollars
 Sao Tome & Principe ,SUB-SAHARAN AFRICA                 ,"193,2","43,11",1200 dollars
+Saudi Arabia ,NEAR EAST                          ,unknown,"13,24",11800 dollars
 Senegal ,SUB-SAHARAN AFRICA                 ,"61,1","55,51",1600 dollars
 Serbia ,EASTERN EUROPE                     ,"106,3","12,89",2200 dollars
+Seychelles ,SUB-SAHARAN AFRICA                 ,"179,2","15,53",unknown
 Sierra Leone ,SUB-SAHARAN AFRICA                 ,"83,7","143,64",500 dollars
 Singapore ,ASIA (EX. NEAR EAST)         ,"6482,2","2,29",23700 dollars
 Slovakia ,EASTERN EUROPE                     ,"111,4","7,41",13300 dollars
@@ -210,7 +220,9 @@ Vanuatu ,OCEANIA                            ,"17,1","55,16",2900 dollars
 Venezuela ,LATIN AMER. & CARIB    ,"28,2","22,2",4800 dollars
 Vietnam ,ASIA (EX. NEAR EAST)         ,"256,1","25,95",2500 dollars
 Virgin Islands ,LATIN AMER. & CARIB    ,"56,9","8,03",17200 dollars
+Wallis and Futuna ,OCEANIA                            ,"58,5",,3700 dollars
 West Bank ,NEAR EAST                          ,"419,9","19,62",800 dollars
+Western Sahara ,NORTHERN AFRICA                    ,"1,0",,
 Yemen ,NEAR EAST                          ,"40,6","61,5",800 dollars
 Zambia ,SUB-SAHARAN AFRICA                 ,"15,3","88,29",800 dollars
 Zimbabwe ,SUB-SAHARAN AFRICA                 ,"31,3","67,69",1900 dollars
