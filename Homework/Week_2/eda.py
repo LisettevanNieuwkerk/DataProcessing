@@ -7,16 +7,12 @@ visualizes the data and writes it to a json file.
 
 import pandas as pd
 import csv
-from requests import get
-from requests.exceptions import RequestException
 from contextlib import closing
 from numpy import percentile
-
-
 import matplotlib.pyplot as plt
 
 
-INPUT_FILE = 'input_(1).csv'
+INPUT_FILE = 'input.csv'
 OUTPUT_CSV = 'output.csv'
 OUTPUT_JSON = 'output.json'
 
@@ -29,10 +25,6 @@ if __name__ == "__main__":
     columns = ['Country', 'Region', 'Pop. Density (per sq. mi.)',
     'Infant mortality (per 1000 births)', 'GDP ($ per capita) dollars']
     df = df.filter(items=columns)
-
-    # Save dataframe to csv
-    with open(OUTPUT_CSV, newline='') as c:
-        df.to_csv(OUTPUT_CSV, index=False)
 
     # Remove rows with unkown or nan values
     value = (df.iat[10,2])
@@ -50,21 +42,19 @@ if __name__ == "__main__":
     median = df[(columns[4])].median()
     mode = df[(columns[4])].mode()
     mean = df[(columns[4])].mean()
-    print(median, mode, mean)
-    print(df)
+    print("Median = {}\nMode = {}\nMean = {}".format(median, mode, mean))
 
     # Plot histogram of GDP
     plt.figure();
-    df[(columns[4])].plot.hist(stacked=True, bins=40, alpha=1, grid=True)
+    df[(columns[4])].plot.hist(stacked=True, bins=30, alpha=1, grid=True)
     plt.xlabel('GDP')
     plt.title('GDP ($ per capita) dollars in countries')
-    plt.axis([0, 57500, 0, 60])
+    plt.axis([0, 60000, 0, 70])
 
     # Five Number Summary of infant mortality
     quartiles = percentile(df[(columns[3])], [25, 50, 75])
     mini, maxi = df[(columns[3])].min(), df[(columns[3])].max()
-    print(quartiles)
-    print(mini, maxi)
+    print("Quartiles = {}\nMinimum = {}\nMaximum = {}".format(quartiles, mini, maxi))
 
     # Boxplot of infant mortality
     plt.figure();
