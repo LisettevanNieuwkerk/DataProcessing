@@ -1,0 +1,21 @@
+# Lisette van Nieuwkerk
+# 10590919
+
+1. Explain the difference between the == operator and the === operator.
+You can use '===' to test if two values are precisely equal. When you use '=='
+type conversions can happen when comparing two values. A type conversion is happing
+with 0 == false, because the result will be true.
+
+2. Explain what a closure is. (Note that JavaScript programs use closures very often)
+New local bindings are created for every call, so different calls will have different
+local bindings so that other local bindings are not affected by this. A closures
+is a function that references local bindings in an enclosing scope.
+
+3. Explain what higher order functions are.
+Higher order functions are function that operate on other function. They can
+take other functions as an argument of return other functions (for example
+the createTransform function from this week).
+
+4. Explain what a query selector is and give an example line of JavaScript that uses a query selector.
+A querySelector finds matches for a specified CSS selector(s) in the document.
+var example = document.querySelector(".example");
