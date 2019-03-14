@@ -1,22 +1,30 @@
 <!--
+WILDCARD
 Name: Lisette van Nieuwkerk
 Studentnumber: 10590919
-Purpose:
+Purpose: Find a relation between the Purchasing Power Parities, inbound arrivals and GDP
 -->
 
 <!DOCTYPE html>
 <html>
 <head>
+
   <title>Scatterplot</title>
   <script type="text/javascript" src="d3/d3.js"></script>
-  <link rel="stylesheet" href="scatter.css">
+  <link rel="stylesheet" type="text/css" href="scatter.css">
+
 </head>
 <body>
 
-<script type="text/javascript" src="scatter.js">
+  <div class="update">
+    <label for="Year">Select year: </label>
+    <select id="year">
+      <option value="2015">2015</option>
+      <option value="2016" selected="selected" >2016</option>
+    </select>
+  </div>
 
-
-</script>
+  <script type="text/javascript" src="scatter.js"></script>
 
 </body>
 </html>
