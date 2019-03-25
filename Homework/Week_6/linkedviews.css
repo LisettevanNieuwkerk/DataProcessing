@@ -1,0 +1,41 @@
+/*
+Name: Lisette van Nieuwkerk
+Studentnumber: 10590919
+*/
+
+.bar {
+  fill: darkgreen;
+}
+.bar:hover {
+  fill: lawngreen;
+}
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+.Yaxis text {
+    font-family: sans-serif;
+    font-size: 11px;
+}
+.Xaxis text {
+    font-family: sans-serif;
+    font-size: 9px;
+}
+.title {
+  text-anchor: middle;
+  font-size: 18px;
+  color: #333333;
+  font-family: sans-serif;
+}
+.tip {
+  position: absolute;
+  display: none;
+  min-width: 80px;
+  height: auto;
+  background: #ffffff;
+  border: 1px solid #6F257F;
+  padding: 10px;
+  text-align: center;
+}

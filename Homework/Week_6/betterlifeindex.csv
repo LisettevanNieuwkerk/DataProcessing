@@ -1,0 +1,678 @@
+﻿"LOCATION","Country","INDICATOR","Indicator","MEASURE","Measure","INEQUALITY","Inequality","Unit Code","Unit","PowerCode Code","PowerCode","Reference Period Code","Reference Period","Value","Flag Codes","Flags"
+"AUS","Australia","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,33417,,
+"AUT","Austria","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,32544,,
+"BEL","Belgium","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,29968,,
+"CAN","Canada","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,29850,,
+"CZE","Czech Republic","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,21103,,
+"DNK","Denmark","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,28950,,
+"FIN","Finland","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,29374,,
+"FRA","France","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,31137,,
+"DEU","Germany","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,33652,,
+"GRC","Greece","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,17002,,
+"HUN","Hungary","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,16821,,
+"ISL","Iceland","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,30453,"E","Estimated value"
+"IRL","Ireland","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,25439,,
+"ITA","Italy","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,26063,,
+"JPN","Japan","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,28641,,
+"KOR","Korea","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,21723,,
+"LUX","Luxembourg","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,41317,"E","Estimated value"
+"MEX","Mexico","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,13891,,
+"NLD","Netherlands","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,28783,,
+"NZL","New Zealand","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,24366,"E","Estimated value"
+"NOR","Norway","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,35739,,
+"POL","Poland","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,18906,,
+"PRT","Portugal","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,20519,,
+"SVK","Slovak Republic","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,20265,,
+"ESP","Spain","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,23129,,
+"SWE","Sweden","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,30553,,
+"CHE","Switzerland","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,36378,,
+"TUR","Turkey","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,17067,"E","Estimated value"
+"GBR","United Kingdom","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,28408,,
+"USA","United States","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,44049,,
+"BRA","Brazil","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,12227,"E","Estimated value"
+"CHL","Chile","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,16588,"E","Estimated value"
+"EST","Estonia","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,18665,,
+"ISR","Israel","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,24036,"E","Estimated value"
+"LVA","Latvia","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,15269,,
+"RUS","Russia","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,16657,,
+"SVN","Slovenia","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,20505,,
+"ZAF","South Africa","IW_HADI","Household net adjusted disposable income","L","Value","TOT","Total","USD","US Dollar","0","Units",,,10872,,
+"AUS","Australia","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,33417,"E","Estimated value"
+"AUT","Austria","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,32544,"E","Estimated value"
+"BEL","Belgium","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,29968,"E","Estimated value"
+"CAN","Canada","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,29850,"E","Estimated value"
+"CZE","Czech Republic","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,21103,"E","Estimated value"
+"DNK","Denmark","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,28950,"E","Estimated value"
+"FIN","Finland","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,29374,"E","Estimated value"
+"FRA","France","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,31137,"E","Estimated value"
+"DEU","Germany","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,33652,"E","Estimated value"
+"GRC","Greece","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,17002,"E","Estimated value"
+"HUN","Hungary","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,16821,"E","Estimated value"
+"ISL","Iceland","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,30453,"E","Estimated value"
+"IRL","Ireland","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,25439,"E","Estimated value"
+"ITA","Italy","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,26063,"E","Estimated value"
+"JPN","Japan","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,28641,"E","Estimated value"
+"KOR","Korea","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,21723,"E","Estimated value"
+"LUX","Luxembourg","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,41317,"E","Estimated value"
+"MEX","Mexico","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,13891,"E","Estimated value"
+"NLD","Netherlands","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,28783,"E","Estimated value"
+"NZL","New Zealand","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,24366,"E","Estimated value"
+"NOR","Norway","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,35739,"E","Estimated value"
+"POL","Poland","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,18906,"E","Estimated value"
+"PRT","Portugal","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,20519,"E","Estimated value"
+"SVK","Slovak Republic","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,20265,"E","Estimated value"
+"ESP","Spain","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,23129,"E","Estimated value"
+"SWE","Sweden","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,30553,"E","Estimated value"
+"CHE","Switzerland","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,36378,"E","Estimated value"
+"TUR","Turkey","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,17067,"E","Estimated value"
+"GBR","United Kingdom","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,28408,"E","Estimated value"
+"USA","United States","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,44049,"E","Estimated value"
+"BRA","Brazil","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,12227,"E","Estimated value"
+"CHL","Chile","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,16588,"E","Estimated value"
+"EST","Estonia","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,18665,"E","Estimated value"
+"ISR","Israel","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,24036,"E","Estimated value"
+"LVA","Latvia","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,15269,"E","Estimated value"
+"RUS","Russia","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,16657,"E","Estimated value"
+"SVN","Slovenia","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,20505,"E","Estimated value"
+"ZAF","South Africa","IW_HADI","Household net adjusted disposable income","L","Value","MN","Men","USD","US Dollar","0","Units",,,10872,"E","Estimated value"
+"AUS","Australia","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,33417,"E","Estimated value"
+"AUT","Austria","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,32544,"E","Estimated value"
+"BEL","Belgium","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,29968,"E","Estimated value"
+"CAN","Canada","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,29850,"E","Estimated value"
+"CZE","Czech Republic","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,21103,"E","Estimated value"
+"DNK","Denmark","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,28950,"E","Estimated value"
+"FIN","Finland","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,29374,"E","Estimated value"
+"FRA","France","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,31137,"E","Estimated value"
+"DEU","Germany","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,33652,"E","Estimated value"
+"GRC","Greece","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,17002,"E","Estimated value"
+"HUN","Hungary","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,16821,"E","Estimated value"
+"ISL","Iceland","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,30453,"E","Estimated value"
+"IRL","Ireland","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,25439,"E","Estimated value"
+"ITA","Italy","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,26063,"E","Estimated value"
+"JPN","Japan","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,28641,"E","Estimated value"
+"KOR","Korea","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,21723,"E","Estimated value"
+"LUX","Luxembourg","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,41317,"E","Estimated value"
+"MEX","Mexico","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,13891,"E","Estimated value"
+"NLD","Netherlands","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,28783,"E","Estimated value"
+"NZL","New Zealand","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,24366,"E","Estimated value"
+"NOR","Norway","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,35739,"E","Estimated value"
+"POL","Poland","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,18906,"E","Estimated value"
+"PRT","Portugal","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,20519,"E","Estimated value"
+"SVK","Slovak Republic","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,20265,"E","Estimated value"
+"ESP","Spain","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,23129,"E","Estimated value"
+"SWE","Sweden","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,30553,"E","Estimated value"
+"CHE","Switzerland","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,36378,"E","Estimated value"
+"TUR","Turkey","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,17067,"E","Estimated value"
+"GBR","United Kingdom","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,28408,"E","Estimated value"
+"USA","United States","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,44049,"E","Estimated value"
+"BRA","Brazil","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,12227,"E","Estimated value"
+"CHL","Chile","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,16588,"E","Estimated value"
+"EST","Estonia","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,18665,"E","Estimated value"
+"ISR","Israel","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,24036,"E","Estimated value"
+"LVA","Latvia","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,15269,"E","Estimated value"
+"RUS","Russia","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,16657,"E","Estimated value"
+"SVN","Slovenia","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,20505,"E","Estimated value"
+"ZAF","South Africa","IW_HADI","Household net adjusted disposable income","L","Value","WMN","Women","USD","US Dollar","0","Units",,,10872,"E","Estimated value"
+"AUS","Australia","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,68338,"E","Estimated value"
+"AUT","Austria","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,58911,"E","Estimated value"
+"BEL","Belgium","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,52934,"E","Estimated value"
+"CAN","Canada","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,57792,"E","Estimated value"
+"CZE","Czech Republic","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,37658,"E","Estimated value"
+"DNK","Denmark","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,50823,"E","Estimated value"
+"FIN","Finland","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,52305,"E","Estimated value"
+"FRA","France","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,60020,"E","Estimated value"
+"DEU","Germany","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,63033,"E","Estimated value"
+"GRC","Greece","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,34325,"E","Estimated value"
+"HUN","Hungary","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,31138,"E","Estimated value"
+"ISL","Iceland","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,52228,"E","Estimated value"
+"IRL","Ireland","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,48353,"E","Estimated value"
+"ITA","Italy","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,51335,"E","Estimated value"
+"JPN","Japan","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,56546,"E","Estimated value"
+"KOR","Korea","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,39988,"E","Estimated value"
+"LUX","Luxembourg","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,76628,"E","Estimated value"
+"MEX","Mexico","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,35912,"E","Estimated value"
+"NLD","Netherlands","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,55773,"E","Estimated value"
+"NZL","New Zealand","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,51440,"E","Estimated value"
+"NOR","Norway","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,62339,"E","Estimated value"
+"POL","Poland","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,35933,"E","Estimated value"
+"PRT","Portugal","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,42274,"E","Estimated value"
+"SVK","Slovak Republic","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,34196,"E","Estimated value"
+"ESP","Spain","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,46893,"E","Estimated value"
+"SWE","Sweden","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,55159,"E","Estimated value"
+"CHE","Switzerland","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,69601,"E","Estimated value"
+"TUR","Turkey","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,39566,"E","Estimated value"
+"GBR","United Kingdom","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,61309,"E","Estimated value"
+"USA","United States","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,98605,"E","Estimated value"
+"BRA","Brazil","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,31869,"E","Estimated value"
+"CHL","Chile","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,42777,"E","Estimated value"
+"EST","Estonia","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,38502,"E","Estimated value"
+"ISR","Israel","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,50185,"E","Estimated value"
+"LVA","Latvia","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,31662,"E","Estimated value"
+"RUS","Russia","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,36648,"E","Estimated value"
+"SVN","Slovenia","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,35303,"E","Estimated value"
+"ZAF","South Africa","IW_HADI","Household net adjusted disposable income","L","Value","HGH","High","USD","US Dollar","0","Units",,,35776,"E","Estimated value"
+"AUS","Australia","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,12068,"E","Estimated value"
+"AUT","Austria","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,14301,"E","Estimated value"
+"BEL","Belgium","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,13481,"E","Estimated value"
+"CAN","Canada","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,11060,"E","Estimated value"
+"CZE","Czech Republic","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,10315,"E","Estimated value"
+"DNK","Denmark","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,14039,"E","Estimated value"
+"FIN","Finland","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,14025,"E","Estimated value"
+"FRA","France","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,13419,"E","Estimated value"
+"DEU","Germany","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,14264,"E","Estimated value"
+"GRC","Greece","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,5405,"E","Estimated value"
+"HUN","Hungary","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,6969,"E","Estimated value"
+"ISL","Iceland","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,14602,"E","Estimated value"
+"IRL","Ireland","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,10598,"E","Estimated value"
+"ITA","Italy","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,8690,"E","Estimated value"
+"JPN","Japan","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,9319,"E","Estimated value"
+"KOR","Korea","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,7827,"E","Estimated value"
+"LUX","Luxembourg","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,18151,"E","Estimated value"
+"MEX","Mexico","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,3444,"E","Estimated value"
+"NLD","Netherlands","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,12200,"E","Estimated value"
+"NZL","New Zealand","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,8921,"E","Estimated value"
+"NOR","Norway","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,16123,"E","Estimated value"
+"POL","Poland","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,7613,"E","Estimated value"
+"PRT","Portugal","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,7186,"E","Estimated value"
+"SVK","Slovak Republic","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,9212,"E","Estimated value"
+"ESP","Spain","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,7097,"E","Estimated value"
+"SWE","Sweden","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,13490,"E","Estimated value"
+"CHE","Switzerland","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,15261,"E","Estimated value"
+"TUR","Turkey","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,5107,"E","Estimated value"
+"GBR","United Kingdom","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,10038,"E","Estimated value"
+"USA","United States","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,11822,"E","Estimated value"
+"BRA","Brazil","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,2554,"E","Estimated value"
+"CHL","Chile","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,4263,"E","Estimated value"
+"EST","Estonia","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,6208,"E","Estimated value"
+"ISR","Israel","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,7086,"E","Estimated value"
+"LVA","Latvia","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,4975,"E","Estimated value"
+"RUS","Russia","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,5136,"E","Estimated value"
+"SVN","Slovenia","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,9435,"E","Estimated value"
+"ZAF","South Africa","IW_HADI","Household net adjusted disposable income","L","Value","LW","Low","USD","US Dollar","0","Units",,,950,"E","Estimated value"
+"AUS","Australia","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,57462,,
+"AUT","Austria","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,59574,,
+"BEL","Belgium","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,104084,,
+"CAN","Canada","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,85758,,
+"CZE","Czech Republic","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,24258,,
+"DNK","Denmark","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,73543,,
+"FIN","Finland","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,27972,,
+"FRA","France","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,59479,,
+"DEU","Germany","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,57358,,
+"GRC","Greece","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,18117,,
+"HUN","Hungary","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,23289,,
+"ISL","Iceland","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,64398,,
+"IRL","Ireland","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,43493,,
+"ITA","Italy","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,64019,,
+"JPN","Japan","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,97595,,
+"KOR","Korea","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,33495,,
+"LUX","Luxembourg","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,74141,,
+"MEX","Mexico","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,4750,"E","Estimated value"
+"NLD","Netherlands","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,90002,,
+"NZL","New Zealand","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,52718,"E","Estimated value"
+"NOR","Norway","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,20347,,
+"POL","Poland","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,14997,,
+"PRT","Portugal","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,31877,,
+"SVK","Slovak Republic","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,10846,,
+"ESP","Spain","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,35443,,
+"SWE","Sweden","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,90708,,
+"CHE","Switzerland","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,128415,,
+"TUR","Turkey","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,4429,,
+"GBR","United Kingdom","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,83405,,
+"USA","United States","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,176076,,
+"BRA","Brazil","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,7102,,
+"CHL","Chile","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,21409,,
+"EST","Estonia","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,16967,,
+"ISR","Israel","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,61805,,
+"LVA","Latvia","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,17105,,
+"RUS","Russia","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,2260,"E","Estimated value"
+"SVN","Slovenia","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,20048,,
+"ZAF","South Africa","IW_HNFW","Household net financial wealth","L","Value","TOT","Total","USD","US Dollar","0","Units",,,17042,,
+"AUS","Australia","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,57462,"E","Estimated value"
+"AUT","Austria","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,59574,"E","Estimated value"
+"BEL","Belgium","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,104084,"E","Estimated value"
+"CAN","Canada","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,85758,"E","Estimated value"
+"CZE","Czech Republic","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,24258,"E","Estimated value"
+"DNK","Denmark","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,73543,"E","Estimated value"
+"FIN","Finland","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,27972,"E","Estimated value"
+"FRA","France","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,59479,"E","Estimated value"
+"DEU","Germany","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,57358,"E","Estimated value"
+"GRC","Greece","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,18117,"E","Estimated value"
+"HUN","Hungary","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,23289,"E","Estimated value"
+"ISL","Iceland","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,64398,"E","Estimated value"
+"IRL","Ireland","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,43493,"E","Estimated value"
+"ITA","Italy","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,64019,"E","Estimated value"
+"JPN","Japan","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,97595,"E","Estimated value"
+"KOR","Korea","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,33495,"E","Estimated value"
+"LUX","Luxembourg","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,74141,"E","Estimated value"
+"MEX","Mexico","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,4750,"E","Estimated value"
+"NLD","Netherlands","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,90002,"E","Estimated value"
+"NZL","New Zealand","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,52718,"E","Estimated value"
+"NOR","Norway","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,20347,"E","Estimated value"
+"POL","Poland","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,14997,"E","Estimated value"
+"PRT","Portugal","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,31877,"E","Estimated value"
+"SVK","Slovak Republic","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,10846,"E","Estimated value"
+"ESP","Spain","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,35443,"E","Estimated value"
+"SWE","Sweden","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,90708,"E","Estimated value"
+"CHE","Switzerland","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,128415,"E","Estimated value"
+"TUR","Turkey","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,4429,"E","Estimated value"
+"GBR","United Kingdom","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,83405,"E","Estimated value"
+"USA","United States","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,176076,"E","Estimated value"
+"BRA","Brazil","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,7102,"E","Estimated value"
+"CHL","Chile","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,21409,"E","Estimated value"
+"EST","Estonia","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,16967,"E","Estimated value"
+"ISR","Israel","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,61805,"E","Estimated value"
+"LVA","Latvia","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,17105,"E","Estimated value"
+"RUS","Russia","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,2260,"E","Estimated value"
+"SVN","Slovenia","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,20048,"E","Estimated value"
+"ZAF","South Africa","IW_HNFW","Household net financial wealth","L","Value","MN","Men","USD","US Dollar","0","Units",,,17042,"E","Estimated value"
+"AUS","Australia","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,57462,"E","Estimated value"
+"AUT","Austria","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,59574,"E","Estimated value"
+"BEL","Belgium","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,104084,"E","Estimated value"
+"CAN","Canada","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,85758,"E","Estimated value"
+"CZE","Czech Republic","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,24258,"E","Estimated value"
+"DNK","Denmark","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,73543,"E","Estimated value"
+"FIN","Finland","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,27972,"E","Estimated value"
+"FRA","France","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,59479,"E","Estimated value"
+"DEU","Germany","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,57358,"E","Estimated value"
+"GRC","Greece","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,18117,"E","Estimated value"
+"HUN","Hungary","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,23289,"E","Estimated value"
+"ISL","Iceland","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,64398,"E","Estimated value"
+"IRL","Ireland","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,43493,"E","Estimated value"
+"ITA","Italy","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,64019,"E","Estimated value"
+"JPN","Japan","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,97595,"E","Estimated value"
+"KOR","Korea","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,33495,"E","Estimated value"
+"LUX","Luxembourg","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,74141,"E","Estimated value"
+"MEX","Mexico","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,4750,"E","Estimated value"
+"NLD","Netherlands","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,90002,"E","Estimated value"
+"NZL","New Zealand","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,52718,"E","Estimated value"
+"NOR","Norway","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,20347,"E","Estimated value"
+"POL","Poland","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,14997,"E","Estimated value"
+"PRT","Portugal","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,31877,"E","Estimated value"
+"SVK","Slovak Republic","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,10846,"E","Estimated value"
+"ESP","Spain","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,35443,"E","Estimated value"
+"SWE","Sweden","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,90708,"E","Estimated value"
+"CHE","Switzerland","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,128415,"E","Estimated value"
+"TUR","Turkey","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,4429,"E","Estimated value"
+"GBR","United Kingdom","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,83405,"E","Estimated value"
+"USA","United States","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,176076,"E","Estimated value"
+"BRA","Brazil","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,7102,"E","Estimated value"
+"CHL","Chile","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,21409,"E","Estimated value"
+"EST","Estonia","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,16967,"E","Estimated value"
+"ISR","Israel","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,61805,"E","Estimated value"
+"LVA","Latvia","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,17105,"E","Estimated value"
+"RUS","Russia","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,2260,"E","Estimated value"
+"SVN","Slovenia","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,20048,"E","Estimated value"
+"ZAF","South Africa","IW_HNFW","Household net financial wealth","L","Value","WMN","Women","USD","US Dollar","0","Units",,,17042,"E","Estimated value"
+"AUS","Australia","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,52063,,
+"AUT","Austria","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,48295,,
+"BEL","Belgium","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,49587,,
+"CAN","Canada","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,48403,,
+"CZE","Czech Republic","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,23722,,
+"DNK","Denmark","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,52580,,
+"FIN","Finland","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,42127,,
+"FRA","France","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,42992,,
+"DEU","Germany","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,46389,,
+"GRC","Greece","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,25124,,
+"HUN","Hungary","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,21711,,
+"ISL","Iceland","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,55984,,
+"IRL","Ireland","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,51681,,
+"ITA","Italy","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,35397,,
+"JPN","Japan","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,39113,,
+"KOR","Korea","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,32399,,
+"LUX","Luxembourg","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,62636,,
+"MEX","Mexico","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,15311,,
+"NLD","Netherlands","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,52833,,
+"NZL","New Zealand","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,39397,,
+"NOR","Norway","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,53643,,
+"POL","Poland","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,25921,,
+"PRT","Portugal","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,24529,,
+"SVK","Slovak Republic","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,23508,,
+"ESP","Spain","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,37333,,
+"SWE","Sweden","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,42816,,
+"CHE","Switzerland","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,60124,,
+"TUR","Turkey","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,22848,"E","Estimated value"
+"GBR","United Kingdom","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,42835,,
+"USA","United States","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,60154,,
+"BRA","Brazil","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,14024,"E","Estimated value"
+"CHL","Chile","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,28434,,
+"EST","Estonia","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,23621,,
+"ISR","Israel","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,34023,,
+"LVA","Latvia","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,22389,,
+"RUS","Russia","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,22101,"E","Estimated value"
+"SVN","Slovenia","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,34965,,
+"ZAF","South Africa","JE_PEARN","Personal earnings","L","Value","TOT","Total","USD","US Dollar","0","Units",,,11554,"E","Estimated value"
+"AUS","Australia","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,54915,,
+"AUT","Austria","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,52211,,
+"BEL","Belgium","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,50415,,
+"CAN","Canada","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,52622,,
+"CZE","Czech Republic","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,25867,,
+"DNK","Denmark","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,54552,,
+"FIN","Finland","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,46848,,
+"FRA","France","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,46110,,
+"DEU","Germany","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,49708,,
+"GRC","Greece","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,25832,,
+"HUN","Hungary","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,23691,,
+"ISL","Iceland","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,60966,,
+"IRL","Ireland","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,56963,,
+"ITA","Italy","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,36933,,
+"JPN","Japan","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,43115,,
+"KOR","Korea","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,37360,,
+"LUX","Luxembourg","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,64338,,
+"MEX","Mexico","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,15988,,
+"NLD","Netherlands","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,55031,,
+"NZL","New Zealand","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,41629,,
+"NOR","Norway","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,57103,,
+"POL","Poland","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,28281,,
+"PRT","Portugal","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,26397,,
+"SVK","Slovak Republic","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,25561,,
+"ESP","Spain","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,39317,,
+"SWE","Sweden","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,46304,,
+"CHE","Switzerland","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,63943,,
+"TUR","Turkey","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,24530,"E","Estimated value"
+"GBR","United Kingdom","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,46690,,
+"USA","United States","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,66128,,
+"BRA","Brazil","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,15045,"E","Estimated value"
+"CHL","Chile","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,30680,,
+"EST","Estonia","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,28204,,
+"ISR","Israel","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,38276,,
+"LVA","Latvia","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,24036,"E","Estimated value"
+"RUS","Russia","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,23726,"E","Estimated value"
+"SVN","Slovenia","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,36319,,
+"ZAF","South Africa","JE_PEARN","Personal earnings","L","Value","MN","Men","USD","US Dollar","0","Units",,,12391,"E","Estimated value"
+"AUS","Australia","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,45885,,
+"AUT","Austria","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,40849,,
+"BEL","Belgium","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,47234,,
+"CAN","Canada","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,43324,,
+"CZE","Czech Republic","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,20352,,
+"DNK","Denmark","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,48685,,
+"FIN","Finland","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,37214,,
+"FRA","France","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,38582,,
+"DEU","Germany","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,40212,,
+"GRC","Greece","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,24156,,
+"HUN","Hungary","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,19580,,
+"ISL","Iceland","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,49850,,
+"IRL","Ireland","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,44784,,
+"ITA","Italy","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,32813,,
+"JPN","Japan","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,31136,,
+"KOR","Korea","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,24227,,
+"LUX","Luxembourg","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,58579,,
+"MEX","Mexico","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,14104,,
+"NLD","Netherlands","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,46032,,
+"NZL","New Zealand","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,36318,,
+"NOR","Norway","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,49193,,
+"POL","Poland","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,23459,,
+"PRT","Portugal","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,22643,,
+"SVK","Slovak Republic","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,20302,,
+"ESP","Spain","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,34521,,
+"SWE","Sweden","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,38507,,
+"CHE","Switzerland","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,50656,,
+"TUR","Turkey","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,20392,"E","Estimated value"
+"GBR","United Kingdom","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,37615,,
+"USA","United States","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,52583,,
+"BRA","Brazil","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,12724,"E","Estimated value"
+"CHL","Chile","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,24847,,
+"EST","Estonia","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,19789,,
+"ISR","Israel","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,28097,,
+"LVA","Latvia","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,19996,"E","Estimated value"
+"RUS","Russia","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,19747,"E","Estimated value"
+"SVN","Slovenia","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,33404,,
+"ZAF","South Africa","JE_PEARN","Personal earnings","L","Value","WMN","Women","USD","US Dollar","0","Units",,,10551,"E","Estimated value"
+"AUS","Australia","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,66230,"E","Estimated value"
+"AUT","Austria","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,61822,"E","Estimated value"
+"BEL","Belgium","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,59987,"E","Estimated value"
+"CAN","Canada","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,66481,"E","Estimated value"
+"CZE","Czech Republic","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,28952,"E","Estimated value"
+"DNK","Denmark","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,65072,"E","Estimated value"
+"FIN","Finland","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,51165,"E","Estimated value"
+"FRA","France","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,52099,"E","Estimated value"
+"DEU","Germany","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,60791,"E","Estimated value"
+"GRC","Greece","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,32238,"E","Estimated value"
+"HUN","Hungary","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,27098,"E","Estimated value"
+"ISL","Iceland","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,69234,"E","Estimated value"
+"IRL","Ireland","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,66593,"E","Estimated value"
+"ITA","Italy","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,41966,"E","Estimated value"
+"JPN","Japan","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,50307,"E","Estimated value"
+"KOR","Korea","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,44648,"E","Estimated value"
+"LUX","Luxembourg","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,82099,"E","Estimated value"
+"MEX","Mexico","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,19078,"E","Estimated value"
+"NLD","Netherlands","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,66819,"E","Estimated value"
+"NZL","New Zealand","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,50423,"E","Estimated value"
+"NOR","Norway","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,60317,"E","Estimated value"
+"POL","Poland","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,32771,"E","Estimated value"
+"PRT","Portugal","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,33415,"E","Estimated value"
+"SVK","Slovak Republic","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,27755,"E","Estimated value"
+"ESP","Spain","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,48761,"E","Estimated value"
+"SWE","Sweden","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,54248,"E","Estimated value"
+"CHE","Switzerland","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,76100,"E","Estimated value"
+"TUR","Turkey","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,29003,"E","Estimated value"
+"GBR","United Kingdom","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,55282,"E","Estimated value"
+"USA","United States","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,76995,"E","Estimated value"
+"BRA","Brazil","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,17829,"E","Estimated value"
+"CHL","Chile","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,35184,"E","Estimated value"
+"EST","Estonia","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,30596,"E","Estimated value"
+"ISR","Israel","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,46628,"E","Estimated value"
+"LVA","Latvia","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,28422,"E","Estimated value"
+"RUS","Russia","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,28057,"E","Estimated value"
+"SVN","Slovenia","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,45444,"E","Estimated value"
+"ZAF","South Africa","JE_PEARN","Personal earnings","L","Value","HGH","High","USD","US Dollar","0","Units",,,14696,"E","Estimated value"
+"AUS","Australia","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,30455,"E","Estimated value"
+"AUT","Austria","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,28935,"E","Estimated value"
+"BEL","Belgium","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,35440,"E","Estimated value"
+"CAN","Canada","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,27472,"E","Estimated value"
+"CZE","Czech Republic","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,13301,"E","Estimated value"
+"DNK","Denmark","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,35530,"E","Estimated value"
+"FIN","Finland","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,28017,"E","Estimated value"
+"FRA","France","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,26879,"E","Estimated value"
+"DEU","Germany","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,27978,"E","Estimated value"
+"GRC","Greece","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,15671,"E","Estimated value"
+"HUN","Hungary","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,10975,"E","Estimated value"
+"ISL","Iceland","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,34716,"E","Estimated value"
+"IRL","Ireland","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,26679,"E","Estimated value"
+"ITA","Italy","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,26112,"E","Estimated value"
+"JPN","Japan","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,24742,"E","Estimated value"
+"KOR","Korea","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,16052,"E","Estimated value"
+"LUX","Luxembourg","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,36877,"E","Estimated value"
+"MEX","Mexico","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,8479,"E","Estimated value"
+"NLD","Netherlands","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,33030,"E","Estimated value"
+"NZL","New Zealand","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,24221,"E","Estimated value"
+"NOR","Norway","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,36339,"E","Estimated value"
+"POL","Poland","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,13194,"E","Estimated value"
+"PRT","Portugal","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,12407,"E","Estimated value"
+"SVK","Slovak Republic","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,12329,"E","Estimated value"
+"ESP","Spain","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,22755,"E","Estimated value"
+"SWE","Sweden","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,25010,"E","Estimated value"
+"CHE","Switzerland","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,37237,"E","Estimated value"
+"TUR","Turkey","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,11976,"E","Estimated value"
+"GBR","United Kingdom","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,24298,"E","Estimated value"
+"USA","United States","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,25699,"E","Estimated value"
+"BRA","Brazil","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,6757,"E","Estimated value"
+"CHL","Chile","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,13459,"E","Estimated value"
+"EST","Estonia","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,12911,"E","Estimated value"
+"ISR","Israel","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,16181,"E","Estimated value"
+"LVA","Latvia","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,11694,"E","Estimated value"
+"RUS","Russia","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,11518,"E","Estimated value"
+"SVN","Slovenia","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,19432,"E","Estimated value"
+"ZAF","South Africa","JE_PEARN","Personal earnings","L","Value","LW","Low","USD","US Dollar","0","Units",,,5384,"E","Estimated value"
+"AUS","Australia","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,7.3,,
+"AUT","Austria","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,7,,
+"BEL","Belgium","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,6.9,,
+"CAN","Canada","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,7.3,,
+"CZE","Czech Republic","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,6.6,,
+"DNK","Denmark","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,7.5,,
+"FIN","Finland","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,7.5,,
+"FRA","France","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,6.4,,
+"DEU","Germany","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,7,,
+"GRC","Greece","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,5.2,,
+"HUN","Hungary","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,5.3,,
+"ISL","Iceland","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,7.5,,
+"IRL","Ireland","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,7,,
+"ITA","Italy","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,5.9,,
+"JPN","Japan","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,5.9,,
+"KOR","Korea","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,5.9,,
+"LUX","Luxembourg","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,6.9,,
+"MEX","Mexico","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,6.6,,
+"NLD","Netherlands","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,7.4,,
+"NZL","New Zealand","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,7.3,,
+"NOR","Norway","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,7.5,,
+"POL","Poland","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,6,,
+"PRT","Portugal","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,5.2,,
+"SVK","Slovak Republic","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,6.1,,
+"ESP","Spain","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,6.4,,
+"SWE","Sweden","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,7.3,,
+"CHE","Switzerland","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,7.5,,
+"TUR","Turkey","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,5.5,,
+"GBR","United Kingdom","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,6.7,,
+"USA","United States","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,6.9,,
+"BRA","Brazil","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,6.6,,
+"CHL","Chile","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,6.7,,
+"EST","Estonia","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,5.6,,
+"ISR","Israel","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,7.2,,
+"LVA","Latvia","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,5.9,,
+"RUS","Russia","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,6,,
+"SVN","Slovenia","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,5.8,,
+"ZAF","South Africa","SW_LIFS","Life satisfaction","L","Value","TOT","Total","AVSCORE","Average score","0","Units",,,4.8,,
+"AUS","Australia","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,7.2,,
+"AUT","Austria","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,7,,
+"BEL","Belgium","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,6.9,,
+"CAN","Canada","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,7.2,,
+"CZE","Czech Republic","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,6.6,,
+"DNK","Denmark","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,7.5,,
+"FIN","Finland","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,7.3,,
+"FRA","France","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,6.5,,
+"DEU","Germany","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,6.9,,
+"GRC","Greece","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,5.1,,
+"HUN","Hungary","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,5.3,,
+"ISL","Iceland","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,7.5,,
+"IRL","Ireland","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,7,,
+"ITA","Italy","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,6,,
+"JPN","Japan","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,5.8,,
+"KOR","Korea","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,5.6,,
+"LUX","Luxembourg","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,6.9,,
+"MEX","Mexico","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,6.5,,
+"NLD","Netherlands","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,7.4,,
+"NZL","New Zealand","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,7.2,,
+"NOR","Norway","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,7.5,,
+"POL","Poland","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,5.9,,
+"PRT","Portugal","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,5.1,,
+"SVK","Slovak Republic","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,6.2,,
+"ESP","Spain","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,6.3,,
+"SWE","Sweden","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,7.3,,
+"CHE","Switzerland","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,7.5,,
+"TUR","Turkey","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,5.4,,
+"GBR","United Kingdom","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,6.7,,
+"USA","United States","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,6.9,,
+"BRA","Brazil","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,6.6,,
+"CHL","Chile","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,6.6,,
+"EST","Estonia","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,5.7,,
+"ISR","Israel","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,7.3,,
+"LVA","Latvia","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,5.9,,
+"RUS","Russia","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,6.1,,
+"SVN","Slovenia","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,5.8,,
+"ZAF","South Africa","SW_LIFS","Life satisfaction","L","Value","MN","Men","AVSCORE","Average score","0","Units",,,4.9,,
+"AUS","Australia","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,7.4,,
+"AUT","Austria","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,7,,
+"BEL","Belgium","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,6.9,,
+"CAN","Canada","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,7.4,,
+"CZE","Czech Republic","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,6.6,,
+"DNK","Denmark","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,7.6,,
+"FIN","Finland","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,7.7,,
+"FRA","France","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,6.4,,
+"DEU","Germany","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,7,,
+"GRC","Greece","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,5.3,,
+"HUN","Hungary","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,5.3,,
+"ISL","Iceland","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,7.5,,
+"IRL","Ireland","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,6.9,,
+"ITA","Italy","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,5.9,,
+"JPN","Japan","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,6.1,,
+"KOR","Korea","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,6.1,,
+"LUX","Luxembourg","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,6.8,,
+"MEX","Mexico","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,6.6,,
+"NLD","Netherlands","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,7.4,,
+"NZL","New Zealand","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,7.4,,
+"NOR","Norway","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,7.6,,
+"POL","Poland","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,6,,
+"PRT","Portugal","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,5.3,,
+"SVK","Slovak Republic","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,6,,
+"ESP","Spain","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,6.5,,
+"SWE","Sweden","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,7.3,,
+"CHE","Switzerland","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,7.5,,
+"TUR","Turkey","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,5.6,,
+"GBR","United Kingdom","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,6.7,,
+"USA","United States","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,7,,
+"BRA","Brazil","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,6.7,,
+"CHL","Chile","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,6.7,,
+"EST","Estonia","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,5.6,,
+"ISR","Israel","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,7.2,,
+"LVA","Latvia","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,5.8,,
+"RUS","Russia","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,5.9,,
+"SVN","Slovenia","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,5.8,,
+"ZAF","South Africa","SW_LIFS","Life satisfaction","L","Value","WMN","Women","AVSCORE","Average score","0","Units",,,4.8,,
+"AUS","Australia","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,7.5,,
+"AUT","Austria","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,7.5,,
+"BEL","Belgium","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,7.3,,
+"CAN","Canada","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,7.6,,
+"CZE","Czech Republic","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,7.3,,
+"DNK","Denmark","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,7.8,,
+"FIN","Finland","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,8,,
+"FRA","France","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,7.2,,
+"DEU","Germany","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,7.3,,
+"GRC","Greece","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,6.1,,
+"HUN","Hungary","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,6.2,,
+"ISL","Iceland","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,8,,
+"IRL","Ireland","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,7.1,,
+"ITA","Italy","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,6.6,,
+"JPN","Japan","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,6.3,,
+"KOR","Korea","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,6.3,,
+"LUX","Luxembourg","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,7.2,,
+"MEX","Mexico","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,7.4,,
+"NLD","Netherlands","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,7.6,,
+"NZL","New Zealand","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,7.5,,
+"NOR","Norway","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,7.8,,
+"POL","Poland","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,6.7,,
+"PRT","Portugal","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,6.2,,
+"SVK","Slovak Republic","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,6.9,,
+"ESP","Spain","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,7,,
+"SWE","Sweden","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,7.6,,
+"CHE","Switzerland","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,7.8,,
+"TUR","Turkey","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,6,,
+"GBR","United Kingdom","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,6.9,,
+"USA","United States","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,7.4,,
+"CHL","Chile","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,7.5,,
+"EST","Estonia","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,6.2,,
+"ISR","Israel","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,7.4,,
+"LVA","Latvia","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,6.5,,
+"RUS","Russia","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,6.3,,
+"ZAF","South Africa","SW_LIFS","Life satisfaction","L","Value","HGH","High","AVSCORE","Average score","0","Units",,,6.2,,
+"AUS","Australia","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,7.2,,
+"AUT","Austria","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,6.9,,
+"CAN","Canada","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,6.9,,
+"CZE","Czech Republic","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,6.4,,
+"FIN","Finland","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,7.1,,
+"FRA","France","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,6.1,,
+"DEU","Germany","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,6,,
+"GRC","Greece","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,4.3,,
+"HUN","Hungary","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,4.8,,
+"ISL","Iceland","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,7.3,,
+"IRL","Ireland","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,6.8,,
+"ITA","Italy","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,5.6,,
+"JPN","Japan","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,5.5,,
+"KOR","Korea","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,5.1,,
+"LUX","Luxembourg","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,6.6,,
+"MEX","Mexico","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,6.1,,
+"NZL","New Zealand","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,7.2,,
+"NOR","Norway","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,7.4,,
+"POL","Poland","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,5.2,,
+"PRT","Portugal","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,4.5,,
+"SVK","Slovak Republic","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,5.7,,
+"ESP","Spain","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,6.2,,
+"SWE","Sweden","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,7,,
+"CHE","Switzerland","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,7.1,,
+"TUR","Turkey","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,5.2,,
+"GBR","United Kingdom","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,6.6,,
+"BRA","Brazil","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,6.5,,
+"CHL","Chile","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,5.9,,
+"EST","Estonia","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,5.2,,
+"LVA","Latvia","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,5.4,,
+"RUS","Russia","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,5.7,,
+"SVN","Slovenia","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,5.2,,
+"ZAF","South Africa","SW_LIFS","Life satisfaction","L","Value","LW","Low","AVSCORE","Average score","0","Units",,,4.2,,

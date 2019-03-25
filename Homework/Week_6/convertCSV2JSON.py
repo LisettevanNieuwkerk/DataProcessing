@@ -16,8 +16,6 @@ if __name__ == "__main__":
     # Read csv into dataframe
     df = pd.read_csv(INPUT_FILE)
 
-    # Set country's as index and write json file
-    df = df.set_index(['LOCATION'])
-    output = df.to_json(orient='index')
+    output = df.to_json(orient='records')
     with open(OUTPUT_JSON, 'w') as j:
         j.write(output)
