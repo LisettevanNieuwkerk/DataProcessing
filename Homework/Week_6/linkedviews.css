@@ -2,40 +2,59 @@
 Name: Lisette van Nieuwkerk
 Studentnumber: 10590919
 */
+p {
+  font-size: 14px;
+  font-family: sans-serif;
+}
+h1 {
+  font-size: 30px;
+  font-family: sans-serif;
+  text-align: center;
+}
 
-.bar {
-  fill: darkgreen;
+.legend {
+  margin-top: 0px;
 }
-.bar:hover {
-  fill: lawngreen;
+
+.labels {
+  font-size: 14px;
+  font-family: sans-serif;
 }
-.axis path,
-.axis line {
+.axis path, .axis line {
     fill: none;
     stroke: black;
     shape-rendering: crispEdges;
 }
-.Yaxis text {
-    font-family: sans-serif;
-    font-size: 11px;
+.axis {
+  font-size: 11px;
+  font-family: sans-serif;
 }
-.Xaxis text {
-    font-family: sans-serif;
-    font-size: 9px;
+.chart {
+  border-style: ridge;
+  margin-left: 350px;
 }
 .title {
   text-anchor: middle;
   font-size: 18px;
-  color: #333333;
   font-family: sans-serif;
+}
+.subtitle {
+  text-anchor: middle;
+  font-size: 12px;
+  font-family: sans-serif;
+  font-style: italic;
+}
+.bar:hover {
+  fill: lawngreen;
 }
 .tip {
   position: absolute;
-  display: none;
   min-width: 80px;
   height: auto;
   background: #ffffff;
   border: 1px solid #6F257F;
   padding: 10px;
   text-align: center;
+  font-family: sans-serif;
+  font-size: 14px;
 }
